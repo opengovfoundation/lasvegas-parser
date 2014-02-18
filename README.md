@@ -3,6 +3,7 @@ lasvegas-parser
 
 #Las Vegas Municode Parser
 
+Translates Municode XML into State Decoded XML
 
 ##Code Files:
 
